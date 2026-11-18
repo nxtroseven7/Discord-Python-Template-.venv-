@@ -1,0 +1,17 @@
+# Virtual Environment
+.venv/
+
+# Secrets & Local Environment
+.env
+
+# Runtime Generated Data
+config.json
+prefixes.json
+
+# Assets (Remove this line if you want Git to push your README images)
+assets/
+
+# Python Cache & IDE
+__pycache__/
+*.py[cod]
+.vscode/
