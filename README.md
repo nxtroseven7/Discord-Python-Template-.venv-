@@ -1,7 +1,8 @@
 
-# My Discord Bot
+# Discord Bot Python Template
 
 A modular Python template for building and hosting a Discord bot locally on your PC using `discord.py` and a `.venv` virtual environment.
+( Your PC is basically hosting the bot, like a server)
 
 ## How to Set Up and Run (Beginner Guide)
 
@@ -12,8 +13,7 @@ A modular Python template for building and hosting a Discord bot locally on your
 3. Click the blue **Reset the token** button and copy your new token.
 4. Scroll down to **Privileged Gateway Intents** and turn on **Server Members Intent** and **Message Content Intent**.
    
-[InternetShortcut]
-URL=file:///c%3A/DiscordBot/assets/bot_token.jpg
+<img width="1405" height="391" alt="bot_token" src="https://github.com/user-attachments/assets/7a137521-d734-4073-a8fb-2ec2c59e297b" />
 
 ### 2. Download the Project
 
@@ -29,8 +29,7 @@ cd Discord-Python-Template-.venv-
 1. Open the project folder in File Explorer.
 2. Click the top address bar, type `cmd`, and press **Enter** to open Command Prompt directly inside the folder.
 
-[InternetShortcut]
-URL=file:///c%3A/DiscordBot/assets/image.jpg
+<img width="858" height="350" alt="image" src="https://github.com/user-attachments/assets/69ad4ca3-4eb5-471d-8e7f-99cbc4920b88" />
 
 
 
